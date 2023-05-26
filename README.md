@@ -22,4 +22,4 @@ Use variables to parameterize tasks and make your code more flexible. This makes
 
 # Step VI : Executing Playbooks
 Once you have configured your playbooks, you can run Ansible to start automating configuration tasks. For this you can use the command 
-`ansible-playbook -i `hostFile``
+`ansible-playbook -i host file.yaml -k`.
